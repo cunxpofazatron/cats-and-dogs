@@ -1,0 +1,15 @@
+{
+  "backup_info": {
+    "timestamp": "2025-11-28T06:46:00.599612",
+    "text": "hello",
+    "group_name": "PD-140",
+    "files": [
+      {
+        "file_name": "hello.jpg",
+        "size": 47001,
+        "created": "2025-11-28T06:46:00.581611",
+        "path": "disk:/PD-140/hello.jpg"
+      }
+    ]
+  }
+}
